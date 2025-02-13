@@ -1,0 +1,11 @@
+table {
+    border: 10px solid;
+    border-color: blue;
+}
+td {
+   background-color: brown; 
+   color: rgb(53, 228, 228);
+}
+thead {
+    background-color: rgb(31, 235, 109);
+}
