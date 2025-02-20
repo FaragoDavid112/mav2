@@ -3,10 +3,18 @@ table {
     border-color: blue;
     background-color: bisque;
 }
-td {
-   background-color: brown; 
+td { 
    color: rgb(53, 228, 228);
 }
 thead {
-    background-color: rgb(136, 31, 235);
+    background-color: rgb(161, 177, 132);
+}
+tbody tr:nth-child(even) {
+    background-color: rgb(88, 62, 29);
+}
+tbody tr:nth-child(odd) {
+    background-color: rgb(185, 115, 23);
+}
+#valami {
+    background-color: brown;
 }
