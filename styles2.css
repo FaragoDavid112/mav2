@@ -1,11 +1,12 @@
 table {
     border: 10px solid;
     border-color: blue;
+    background-color: bisque;
 }
 td {
    background-color: brown; 
    color: rgb(53, 228, 228);
 }
 thead {
-    background-color: rgb(31, 235, 109);
+    background-color: rgb(136, 31, 235);
 }
