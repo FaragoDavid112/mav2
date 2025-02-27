@@ -2,6 +2,7 @@ table {
     border: 10px solid;
     border-color: blue;
     background-color: bisque;
+    font-size: 30px;
 }
 td { 
    color: rgb(53, 228, 228);
