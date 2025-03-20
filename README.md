@@ -12,37 +12,37 @@ Legfelül Az idő cím és MÁV logó látható.<br>
 Alatta a sorok megnevezései.<br>
 Ezek alatt pedig az adatok láthatóak.<br>
 ## Az első oldal stílus szerkezete:
-table {
-    border: 1px solid;
-    color: rgb(91, 0, 177);
-    border-color: black; 
-    font-family: 'Courier New';
-    font-size: 30px;}
-#keses {background-color: green;}
-.elso_oszlop {background-color: aqua;}
-.teteje {background-color: rgb(160, 194, 26);}
-tbody tr:nth-child(odd) {background-color: rgb(134, 98, 51);}
-tbody tr:nth-child(even) {background-color: rgb(59, 10, 104);}
+table {<br>
+    border: 1px solid;<br>
+    color: rgb(91, 0, 177);<br>
+    border-color: black;<br> 
+    font-family: 'Courier New';<br>
+    font-size: 30px;}<br>
+#keses {background-color: green;}<br>
+.elso_oszlop {background-color: aqua;}<br>
+.teteje {background-color: rgb(160, 194, 26);}<br>
+tbody tr:nth-child(odd) {background-color: rgb(134, 98, 51);}<br>
+tbody tr:nth-child(even) {background-color: rgb(59, 10, 104);}<br>
 
 # A második oldal:
-🚉Szintúgy szép szinekkel van ellátva és ugyanúgy az első sor fontos adatokkal van teli.
-Egy sorral lentebb szintúgy a sorok megnevezései vannak.
-Ezek a sorok alatt pedig az adatok.
+🚉Szintúgy szép szinekkel van ellátva és ugyanúgy az első sor fontos adatokkal van teli.<br>
+Egy sorral lentebb szintúgy a sorok megnevezései vannak.<br>
+Ezek a sorok alatt pedig az adatok.<br>
 ## A második oldal stílus szerkezete:
-table {
-    border: 10px solid;
-    border-color: blue;
-    background-color: bisque;
-    font-size: 30px;}
-td {color: rgb(53, 228, 228);}
-thead {background-color: rgb(161, 177, 132);}
-tbody tr:nth-child(even) {background-color: rgb(88, 62, 29);}
-tbody tr:nth-child(odd) {background-color: rgb(185, 115, 23);}
-#induló_késés {background-color: rgb(155, 42, 165);}
+table {<br>
+    border: 10px solid;<br>
+    border-color: blue;<br>
+    background-color: bisque;<br>
+    font-size: 30px;}<br>
+td {color: rgb(53, 228, 228);}<br>
+thead {background-color: rgb(161, 177, 132);}<br>
+tbody tr:nth-child(even) {background-color: rgb(88, 62, 29);}<br>
+tbody tr:nth-child(odd) {background-color: rgb(185, 115, 23);}<br>
+#induló_késés {background-color: rgb(155, 42, 165);}<br>
 
 ## A weboldal elérhetősége
-👉Itt találhatod a linket: https://faragodavid112.github.io/mav2/
-Ha panaszkodni szeretnél problémák iránt ne keress!
+👉Itt találhatod a linket: https://faragodavid112.github.io/mav2/<br>
+Ha panaszkodni szeretnél problémák iránt ne keress!<br>
 
 ## Kis töltő szöveg
 A színekkel nagyon sokat dolgoztam és a bécsi művészeti egyetemen 10 évig tanultam, hogy mestere legyek a színeknek és a legjobb MÁV utastájékoztatókat csináljak.
