@@ -20,3 +20,6 @@ Ezek a sorok alatt pedig az adatok.
 ## A weboldal elérhetősége
 👉Itt találhatod a linket: https://faragodavid112.github.io/mav2/
 Ha panaszkodni szeretnél problémák iránt ne keress!
+
+## Kis töltő szöveg
+A színekkel nagyon sokat dolgoztam és a bécsi művészeti egyetemen 10 évig tanultam, hogy mestere legyek a színeknek és a legjobb MÁV utastájékoztatókat csináljak.
