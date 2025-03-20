@@ -7,12 +7,10 @@ Induló és érkező vonatok
 Az alábbi munkám bemutatja, hogy mikor érkeznek és mikor távoznak milyen vonatok honnan hová és mikor.
 
 # Az első oldal:
-'''html
 🚂 Az érkéző vonatok láthatóak és szép átlátható színek a könnyebb olvasást segítik.<br>
 Legfelül Az idő cím és MÁV logó látható.<br>
 Alatta a sorok megnevezései.<br>
 Ezek alatt pedig az adatok láthatóak.<br>
-'''
 ## Az első oldal stílus szerkezete:
 table {
     border: 1px solid;
