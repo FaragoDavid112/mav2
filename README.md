@@ -6,29 +6,31 @@ Induló és érkező vonatok
 
 Az alábbi munkám bemutatja, hogy mikor érkeznek és mikor távoznak milyen vonatok honnan hová és mikor.
 
-## Az első oldal:
-🚂 Az érkéző vonatok láthatóak és szép átlátható színek a könnyebb olvasást segítik.
-Legfelül Az idő cím és MÁV logó látható.
-Alatta a sorok megnevezései.
-Ezek alatt pedig az adatok láthatóak.
-# Az első oldal stílus szerkezete:
+# Az első oldal:
+'''html
+<br>🚂 Az érkéző vonatok láthatóak és szép átlátható színek a könnyebb olvasást segítik.<br>
+<br>Legfelül Az idő cím és MÁV logó látható.<br>
+<br>Alatta a sorok megnevezései.<br>
+<br>Ezek alatt pedig az adatok láthatóak.<br>
+'''
+## Az első oldal stílus szerkezete:
 table {
     border: 1px solid;
     color: rgb(91, 0, 177);
     border-color: black; 
     font-family: 'Courier New';
-    font-size: 30px;
+    font-size: 30px;}
 #keses {background-color: green;}
 .elso_oszlop {background-color: aqua;}
 .teteje {background-color: rgb(160, 194, 26);}
 tbody tr:nth-child(odd) {background-color: rgb(134, 98, 51);}
 tbody tr:nth-child(even) {background-color: rgb(59, 10, 104);}
 
-## A második oldal:
+# A második oldal:
 🚉Szintúgy szép szinekkel van ellátva és ugyanúgy az első sor fontos adatokkal van teli.
 Egy sorral lentebb szintúgy a sorok megnevezései vannak.
 Ezek a sorok alatt pedig az adatok.
-# A második oldal stílus szerkezete:
+## A második oldal stílus szerkezete:
 table {
     border: 10px solid;
     border-color: blue;
