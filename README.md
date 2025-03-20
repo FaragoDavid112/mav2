@@ -8,10 +8,10 @@ Az alábbi munkám bemutatja, hogy mikor érkeznek és mikor távoznak milyen vo
 
 # Az első oldal:
 '''html
-<br>🚂 Az érkéző vonatok láthatóak és szép átlátható színek a könnyebb olvasást segítik.<br>
-<br>Legfelül Az idő cím és MÁV logó látható.<br>
-<br>Alatta a sorok megnevezései.<br>
-<br>Ezek alatt pedig az adatok láthatóak.<br>
+🚂 Az érkéző vonatok láthatóak és szép átlátható színek a könnyebb olvasást segítik.<br>
+Legfelül Az idő cím és MÁV logó látható.<br>
+Alatta a sorok megnevezései.<br>
+Ezek alatt pedig az adatok láthatóak.<br>
 '''
 ## Az első oldal stílus szerkezete:
 table {
