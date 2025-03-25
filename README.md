@@ -1,11 +1,7 @@
-## 🎨 CSS Stílusok
-```css
-body {
-    color: rgb(0, 177, 124);
-    background-color:rgb(152, 27, 184);
-    text-align: right;
-}
-```
+<style>
+    background-color: rgb(206, 136, 55);
+    color: rgb(31, 184, 158);
+<style>
 ## Ez a MÁV utastájékoztató tanuló verziója
 
 Induló és érkező vonatok
