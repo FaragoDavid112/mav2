@@ -1,5 +1,10 @@
+## 🎨 CSS Stílusok
 ```css
-body{color:rgb(72, 173, 156)}
+body {
+    color: rgb(0, 177, 124);
+    background-color:rgb(152, 27, 184);
+    text-align: right;
+}
 ```
 ## Ez a MÁV utastájékoztató tanuló verziója
 
