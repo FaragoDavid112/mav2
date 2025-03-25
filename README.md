@@ -1,7 +1,3 @@
-<style
-    background-color: rgb(206, 136, 55);
-    color: rgb(31, 184, 158);
->
 ## Ez a MÁV utastájékoztató tanuló verziója
 
 Induló és érkező vonatok
@@ -50,3 +46,8 @@ Ha panaszkodni szeretnél problémák iránt ne keress!<br>
 
 ## Kis töltő szöveg
 A színekkel nagyon sokat dolgoztam és a bécsi művészeti egyetemen 10 évig tanultam, hogy mestere legyek a színeknek és a legjobb MÁV utastájékoztatókat csináljak.
+<style>
+    background-color: bisque;
+    font-size: 30px;
+    color: rgb(53, 228, 228);
+<style>
