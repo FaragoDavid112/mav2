@@ -1,7 +1,6 @@
-css
-color: rgb(91, 0, 177);
-font-size: 20px;
-'''
+```css
+body{color:rgb(72, 173, 156)}
+```
 ## Ez a MÁV utastájékoztató tanuló verziója
 
 Induló és érkező vonatok
